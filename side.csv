@@ -1,0 +1,1001 @@
+age,gender,ethnic_origin,side
+18,male,black,waffle fries
+42,male,white,nothing
+10,male,asia,waffle fries
+22,male,white,Hashbrowns
+40,female,india,waffle fries
+28,male,white,superfood side
+44,male,white,waffle fries
+49,female,asia,Hashbrowns
+20,male,white,Fruit Cup
+30,male,asia,waffle fries
+21,female,black,waffle fries
+24,male,india,waffle fries
+64,female,asia,Fruit Cup
+27,female,asia,waffle fries
+7,male,asia,waffle fries
+25,male,white,waffle fries
+9,male,asia,waffle fries
+34,female,black,nothing
+57,male,black,Hashbrowns
+48,female,white,waffle fries
+27,female,white,waffle fries
+18,male,white,Hashbrowns
+16,female,black,waffle fries
+23,male,black,nothing
+21,female,black,waffle fries
+16,male,white,waffle fries
+44,male,white,waffle fries
+25,female,white,waffle fries
+24,male,white,waffle fries
+23,male,india,nothing
+29,male,white,superfood side
+31,male,asia,superfood side
+34,female,black,waffle fries
+16,female,black,waffle fries
+30,male,white,nothing
+17,female,white,waffle fries
+21,female,india,waffle fries
+26,male,black,side salad
+34,female,india,side salad
+37,male,black,waffle fries
+17,female,white,waffle fries
+25,male,white,nothing
+29,male,india,Hashbrowns
+41,male,white,Hashbrowns
+20,male,white,waffle fries
+31,male,white,waffle fries
+23,male,black,nothing
+10,female,white,Hashbrowns
+59,female,black,superfood side
+24,female,white,nothing
+56,female,white,superfood side
+30,female,white,Hashbrowns
+30,male,white,waffle fries
+15,male,black,waffle fries
+26,male,india,nothing
+60,male,white,waffle fries
+40,female,asia,waffle fries
+11,male,india,Hashbrowns
+19,male,black,superfood side
+18,female,black,nothing
+33,male,asia,waffle fries
+23,female,white,nothing
+45,female,white,Hashbrowns
+86,female,black,Hashbrowns
+22,female,white,waffle fries
+25,male,asia,waffle fries
+20,male,black,Hashbrowns
+4,female,asia,waffle fries
+18,female,white,Fruit Cup
+37,male,india,Hashbrowns
+33,male,black,waffle fries
+32,male,asia,nothing
+34,female,white,Hashbrowns
+28,male,white,nothing
+28,female,india,nothing
+29,female,black,Hashbrowns
+11,female,white,waffle fries
+19,female,white,Fruit Cup
+24,male,asia,Hashbrowns
+22,female,black,nothing
+17,male,india,nothing
+32,female,black,Hashbrowns
+31,male,black,Hashbrowns
+26,female,asia,Hashbrowns
+50,male,white,waffle fries
+48,female,black,nothing
+18,female,white,nothing
+28,male,white,nothing
+34,female,asia,side salad
+19,male,white,waffle fries
+28,female,white,superfood side
+30,male,white,Hashbrowns
+20,male,asia,nothing
+31,female,india,side salad
+30,female,asia,Hashbrowns
+24,male,white,Fruit Cup
+36,female,white,nothing
+18,male,white,waffle fries
+8,female,black,waffle fries
+27,male,white,superfood side
+59,female,india,nothing
+43,female,white,waffle fries
+29,male,white,waffle fries
+22,male,white,Hashbrowns
+30,male,white,Fruit Cup
+58,male,asia,superfood side
+30,male,asia,nothing
+23,female,white,Hashbrowns
+33,female,black,waffle fries
+24,male,asia,waffle fries
+43,female,white,waffle fries
+26,male,white,waffle fries
+20,female,white,nothing
+63,female,white,Hashbrowns
+26,female,white,waffle fries
+6,female,black,nothing
+55,male,white,waffle fries
+89,male,india,Hashbrowns
+39,male,white,Fruit Cup
+30,female,white,waffle fries
+15,male,asia,waffle fries
+27,female,white,waffle fries
+25,female,white,waffle fries
+19,female,white,nothing
+17,female,white,waffle fries
+47,male,black,waffle fries
+24,female,black,nothing
+10,male,india,waffle fries
+7,male,black,Hashbrowns
+29,male,white,waffle fries
+76,male,white,Hashbrowns
+56,female,india,waffle fries
+21,male,asia,waffle fries
+41,male,white,waffle fries
+22,male,white,waffle fries
+42,male,white,waffle fries
+27,male,india,waffle fries
+57,female,asia,nothing
+27,male,asia,Hashbrowns
+42,male,white,Hashbrowns
+70,female,white,waffle fries
+26,male,india,Hashbrowns
+28,male,black,waffle fries
+16,female,white,nothing
+43,male,white,Fruit Cup
+20,female,white,waffle fries
+29,male,india,waffle fries
+18,male,white,Hashbrowns
+34,female,black,nothing
+30,male,white,waffle fries
+32,male,india,Hashbrowns
+28,male,white,nothing
+16,male,black,waffle fries
+29,female,white,waffle fries
+42,female,white,nothing
+13,male,black,waffle fries
+16,female,asia,waffle fries
+24,female,white,waffle fries
+39,female,white,waffle fries
+26,male,white,waffle fries
+21,female,black,waffle fries
+23,male,white,waffle fries
+19,female,india,Hashbrowns
+23,female,black,waffle fries
+30,male,white,waffle fries
+25,female,white,waffle fries
+33,male,white,nothing
+38,female,white,Hashbrowns
+24,female,black,Hashbrowns
+20,male,black,waffle fries
+33,male,asia,Hashbrowns
+29,female,india,Hashbrowns
+43,female,black,nothing
+30,male,asia,Hashbrowns
+39,male,white,Hashbrowns
+17,female,asia,side salad
+29,male,white,Hashbrowns
+28,male,white,Hashbrowns
+21,male,black,nothing
+16,female,white,waffle fries
+33,male,india,nothing
+15,male,white,waffle fries
+17,male,black,nothing
+24,female,white,waffle fries
+35,male,india,waffle fries
+29,male,black,nothing
+26,male,white,nothing
+33,female,white,waffle fries
+33,female,india,waffle fries
+28,male,white,superfood side
+43,male,white,waffle fries
+34,female,white,waffle fries
+18,male,india,waffle fries
+18,male,white,waffle fries
+13,female,white,superfood side
+32,male,white,waffle fries
+32,female,white,nothing
+29,male,white,waffle fries
+27,male,white,Hashbrowns
+24,male,india,waffle fries
+27,female,black,Hashbrowns
+28,female,black,waffle fries
+21,male,white,Hashbrowns
+16,female,india,waffle fries
+39,male,white,waffle fries
+29,female,black,waffle fries
+32,female,asia,nothing
+30,female,asia,nothing
+30,male,black,nothing
+20,male,white,waffle fries
+64,female,black,Hashbrowns
+31,male,black,Hashbrowns
+14,male,white,waffle fries
+90,female,black,Hashbrowns
+39,female,white,Hashbrowns
+36,female,white,nothing
+1,male,white,Hashbrowns
+24,female,asia,waffle fries
+20,female,black,Hashbrowns
+56,female,black,waffle fries
+50,male,asia,nothing
+44,male,white,waffle fries
+49,female,white,nothing
+17,female,white,nothing
+27,male,white,waffle fries
+28,male,asia,waffle fries
+41,male,white,Fruit Cup
+23,female,white,Hashbrowns
+16,female,asia,waffle fries
+31,male,asia,waffle fries
+31,female,white,superfood side
+15,male,white,nothing
+21,male,white,waffle fries
+43,female,white,waffle fries
+28,male,white,waffle fries
+42,male,white,waffle fries
+25,male,india,waffle fries
+41,male,white,Hashbrowns
+15,male,black,Hashbrowns
+8,male,india,waffle fries
+41,male,white,waffle fries
+22,male,white,waffle fries
+28,male,white,Hashbrowns
+21,male,india,waffle fries
+25,male,india,waffle fries
+41,male,white,waffle fries
+42,female,white,waffle fries
+59,female,white,Hashbrowns
+25,female,white,waffle fries
+31,female,white,Fruit Cup
+32,male,black,waffle fries
+35,female,asia,nothing
+60,male,asia,nothing
+35,male,india,waffle fries
+10,female,white,Hashbrowns
+32,male,white,Hashbrowns
+16,male,white,side salad
+37,male,white,nothing
+17,female,black,nothing
+19,male,white,Fruit Cup
+50,male,white,Hashbrowns
+33,male,black,waffle fries
+11,male,black,Hashbrowns
+14,female,white,side salad
+23,female,black,side salad
+35,male,india,waffle fries
+24,female,black,superfood side
+87,male,asia,nothing
+22,male,white,superfood side
+22,male,black,waffle fries
+40,female,white,Fruit Cup
+21,female,black,Hashbrowns
+24,female,white,Hashbrowns
+23,male,white,Hashbrowns
+59,male,black,nothing
+21,male,india,waffle fries
+52,male,asia,waffle fries
+28,female,black,waffle fries
+23,male,black,superfood side
+48,female,india,Hashbrowns
+23,female,asia,nothing
+18,male,black,nothing
+31,female,asia,waffle fries
+22,female,white,waffle fries
+22,male,white,Hashbrowns
+31,male,india,waffle fries
+56,female,black,nothing
+53,male,white,nothing
+38,male,india,Hashbrowns
+22,female,white,waffle fries
+56,female,black,Hashbrowns
+65,male,black,waffle fries
+27,male,asia,Hashbrowns
+28,female,white,nothing
+46,male,india,waffle fries
+25,male,black,waffle fries
+34,female,black,Fruit Cup
+62,female,asia,nothing
+31,male,asia,waffle fries
+22,male,black,Hashbrowns
+63,male,white,waffle fries
+21,male,asia,side salad
+3,male,asia,waffle fries
+28,female,black,Fruit Cup
+22,male,black,nothing
+24,male,white,nothing
+35,female,white,waffle fries
+37,male,india,nothing
+74,male,white,superfood side
+48,female,asia,Fruit Cup
+31,female,asia,Hashbrowns
+6,female,asia,superfood side
+23,female,white,waffle fries
+76,male,black,waffle fries
+34,male,white,waffle fries
+28,male,white,Hashbrowns
+55,male,white,waffle fries
+22,male,india,waffle fries
+10,female,white,waffle fries
+39,female,white,waffle fries
+40,female,asia,nothing
+29,male,black,waffle fries
+51,female,white,nothing
+38,male,white,waffle fries
+61,male,white,Fruit Cup
+21,female,asia,waffle fries
+51,male,india,waffle fries
+64,female,white,Hashbrowns
+37,male,black,Hashbrowns
+21,male,black,waffle fries
+27,male,india,waffle fries
+19,male,india,waffle fries
+31,male,white,waffle fries
+32,female,asia,Hashbrowns
+29,male,white,Hashbrowns
+29,female,black,side salad
+17,male,white,waffle fries
+6,male,white,Hashbrowns
+27,male,asia,superfood side
+32,male,white,waffle fries
+34,male,white,superfood side
+33,male,india,Hashbrowns
+95,male,white,Hashbrowns
+57,male,india,Fruit Cup
+25,female,asia,nothing
+83,female,white,waffle fries
+21,female,white,waffle fries
+27,male,asia,superfood side
+7,female,white,Hashbrowns
+8,male,white,Fruit Cup
+10,male,white,nothing
+25,male,black,Hashbrowns
+30,male,asia,waffle fries
+1,female,white,waffle fries
+34,male,white,waffle fries
+66,female,india,waffle fries
+38,male,asia,Fruit Cup
+27,male,black,waffle fries
+30,male,black,side salad
+29,female,asia,superfood side
+25,male,black,Hashbrowns
+28,female,black,waffle fries
+28,female,white,Hashbrowns
+52,female,white,waffle fries
+17,male,black,Hashbrowns
+20,female,white,waffle fries
+33,male,black,Hashbrowns
+9,male,india,waffle fries
+18,female,white,Hashbrowns
+18,male,india,nothing
+27,male,asia,Fruit Cup
+17,female,white,Hashbrowns
+50,male,white,Hashbrowns
+65,male,white,nothing
+47,male,india,waffle fries
+33,female,asia,superfood side
+30,male,black,waffle fries
+26,female,white,Hashbrowns
+26,female,white,Fruit Cup
+63,male,asia,waffle fries
+2,female,asia,Hashbrowns
+81,male,black,waffle fries
+33,male,white,waffle fries
+25,female,white,Fruit Cup
+33,female,white,side salad
+28,female,white,superfood side
+28,female,white,Hashbrowns
+6,male,india,Hashbrowns
+23,male,white,waffle fries
+28,male,black,waffle fries
+25,male,india,superfood side
+81,female,asia,waffle fries
+11,male,black,waffle fries
+37,male,white,Hashbrowns
+32,male,white,nothing
+60,male,black,Hashbrowns
+9,female,white,Hashbrowns
+63,male,white,Hashbrowns
+23,male,white,superfood side
+61,male,black,waffle fries
+81,female,india,nothing
+66,female,black,waffle fries
+33,female,black,waffle fries
+18,male,white,Hashbrowns
+54,male,asia,waffle fries
+76,male,india,nothing
+40,female,black,Hashbrowns
+33,male,black,waffle fries
+32,male,india,waffle fries
+51,male,black,waffle fries
+21,male,white,waffle fries
+19,male,white,superfood side
+17,male,black,Hashbrowns
+31,female,asia,waffle fries
+2,male,white,waffle fries
+14,male,white,Hashbrowns
+22,female,white,waffle fries
+20,male,black,nothing
+25,male,asia,waffle fries
+37,male,white,nothing
+32,female,white,Hashbrowns
+62,female,black,superfood side
+23,female,white,Hashbrowns
+44,male,asia,Hashbrowns
+24,female,white,Fruit Cup
+25,male,white,waffle fries
+37,male,black,waffle fries
+24,female,asia,waffle fries
+34,male,white,nothing
+31,male,white,waffle fries
+28,male,black,waffle fries
+13,female,asia,waffle fries
+27,female,black,waffle fries
+25,male,white,waffle fries
+40,male,black,waffle fries
+25,female,black,waffle fries
+32,female,white,Hashbrowns
+33,male,black,waffle fries
+30,female,white,Hashbrowns
+27,male,asia,side salad
+34,female,asia,waffle fries
+34,male,white,waffle fries
+29,male,india,side salad
+26,male,white,Fruit Cup
+28,male,india,Hashbrowns
+34,male,white,Hashbrowns
+60,male,black,Hashbrowns
+31,male,black,Hashbrowns
+31,female,black,superfood side
+23,male,white,waffle fries
+22,female,india,Hashbrowns
+46,male,india,waffle fries
+22,female,india,Hashbrowns
+35,female,india,waffle fries
+21,female,white,Hashbrowns
+41,female,white,Hashbrowns
+88,male,white,Hashbrowns
+58,male,black,superfood side
+91,female,white,Hashbrowns
+36,male,white,side salad
+12,female,white,waffle fries
+25,female,white,Hashbrowns
+27,female,black,superfood side
+65,male,black,nothing
+30,female,white,waffle fries
+12,male,black,Hashbrowns
+20,male,white,waffle fries
+31,male,white,waffle fries
+44,female,asia,waffle fries
+26,male,india,Hashbrowns
+51,male,india,nothing
+24,female,black,waffle fries
+27,female,india,waffle fries
+38,male,white,superfood side
+21,male,white,waffle fries
+39,female,white,waffle fries
+49,male,white,nothing
+26,female,asia,Fruit Cup
+51,male,black,waffle fries
+39,male,white,waffle fries
+30,female,white,waffle fries
+43,female,white,nothing
+21,male,white,waffle fries
+22,male,asia,nothing
+58,female,asia,waffle fries
+20,male,asia,waffle fries
+18,male,black,Hashbrowns
+47,female,black,waffle fries
+25,male,white,waffle fries
+53,male,india,waffle fries
+21,female,asia,waffle fries
+23,male,white,Fruit Cup
+26,male,india,waffle fries
+17,female,black,waffle fries
+17,male,white,waffle fries
+31,male,black,Hashbrowns
+52,male,asia,waffle fries
+30,female,black,waffle fries
+25,male,white,waffle fries
+15,female,asia,Hashbrowns
+30,female,white,waffle fries
+36,male,india,side salad
+63,female,white,nothing
+37,female,white,waffle fries
+39,male,black,waffle fries
+30,female,white,waffle fries
+32,female,asia,waffle fries
+34,male,white,Hashbrowns
+29,male,asia,nothing
+14,female,white,waffle fries
+27,female,white,nothing
+25,male,india,waffle fries
+33,female,white,waffle fries
+28,female,black,Fruit Cup
+73,female,black,waffle fries
+36,male,white,Hashbrowns
+23,female,asia,Hashbrowns
+24,female,asia,nothing
+41,female,asia,waffle fries
+34,male,black,waffle fries
+6,male,asia,nothing
+16,female,india,waffle fries
+26,male,white,nothing
+24,male,asia,nothing
+57,male,white,waffle fries
+22,male,white,nothing
+15,female,white,Fruit Cup
+47,female,white,waffle fries
+94,female,india,superfood side
+67,male,white,waffle fries
+64,female,asia,nothing
+34,female,black,nothing
+23,male,white,waffle fries
+21,male,white,waffle fries
+32,male,asia,waffle fries
+28,female,white,waffle fries
+41,male,black,nothing
+59,male,black,waffle fries
+2,male,black,Hashbrowns
+33,male,black,waffle fries
+30,male,white,waffle fries
+19,female,white,Hashbrowns
+15,male,black,waffle fries
+34,female,asia,nothing
+32,female,white,waffle fries
+33,female,white,Hashbrowns
+11,female,asia,Hashbrowns
+10,male,black,waffle fries
+20,male,white,waffle fries
+35,male,asia,nothing
+22,male,white,waffle fries
+31,male,white,Hashbrowns
+8,male,white,nothing
+52,female,black,nothing
+36,male,black,waffle fries
+33,male,white,waffle fries
+36,female,white,Fruit Cup
+26,female,black,Hashbrowns
+30,female,white,waffle fries
+34,female,india,waffle fries
+30,female,white,waffle fries
+31,female,asia,superfood side
+24,male,asia,superfood side
+21,male,asia,waffle fries
+42,female,white,Hashbrowns
+31,male,black,side salad
+22,male,white,waffle fries
+25,male,white,Hashbrowns
+44,male,india,superfood side
+38,female,white,nothing
+5,female,white,waffle fries
+21,female,white,Hashbrowns
+35,male,india,waffle fries
+15,female,white,waffle fries
+25,male,india,nothing
+49,male,india,nothing
+22,male,white,Hashbrowns
+55,male,white,nothing
+27,male,white,nothing
+63,male,white,Hashbrowns
+32,male,asia,waffle fries
+94,female,white,nothing
+41,male,white,Hashbrowns
+61,female,asia,side salad
+34,female,black,Hashbrowns
+26,female,black,nothing
+21,male,asia,Fruit Cup
+35,female,black,nothing
+51,male,white,waffle fries
+26,male,white,waffle fries
+38,female,white,waffle fries
+98,male,black,nothing
+25,female,white,Hashbrowns
+23,male,white,nothing
+36,male,black,waffle fries
+22,female,black,Hashbrowns
+40,male,white,waffle fries
+49,male,white,waffle fries
+68,female,white,Hashbrowns
+22,male,white,side salad
+31,male,asia,Fruit Cup
+22,male,white,Hashbrowns
+19,female,india,Hashbrowns
+40,female,white,waffle fries
+34,female,white,waffle fries
+15,male,black,Hashbrowns
+34,female,india,waffle fries
+25,female,white,waffle fries
+28,male,black,waffle fries
+12,male,white,waffle fries
+28,male,white,side salad
+38,female,white,side salad
+21,female,asia,waffle fries
+39,female,white,waffle fries
+29,female,white,waffle fries
+96,female,white,Hashbrowns
+36,female,black,Hashbrowns
+44,male,black,nothing
+31,male,india,waffle fries
+63,male,asia,Fruit Cup
+44,female,white,Hashbrowns
+22,male,india,Fruit Cup
+24,male,white,superfood side
+26,male,white,waffle fries
+21,male,black,superfood side
+47,female,white,Fruit Cup
+34,male,white,waffle fries
+20,male,white,waffle fries
+42,male,white,Hashbrowns
+39,male,india,waffle fries
+27,male,black,waffle fries
+20,female,black,Fruit Cup
+32,male,white,Hashbrowns
+82,male,white,waffle fries
+35,male,white,nothing
+21,female,india,waffle fries
+27,female,asia,nothing
+51,female,black,waffle fries
+25,male,white,waffle fries
+27,male,white,Hashbrowns
+25,male,asia,Hashbrowns
+41,female,white,nothing
+17,male,white,Hashbrowns
+16,male,black,Hashbrowns
+19,male,black,Hashbrowns
+92,male,white,waffle fries
+22,female,white,Hashbrowns
+52,male,white,waffle fries
+22,female,white,waffle fries
+18,male,black,waffle fries
+19,female,white,waffle fries
+28,female,asia,waffle fries
+33,female,asia,Fruit Cup
+65,female,india,Hashbrowns
+24,male,white,Hashbrowns
+15,male,india,Hashbrowns
+48,male,white,waffle fries
+24,male,white,waffle fries
+38,male,white,waffle fries
+18,female,white,waffle fries
+18,male,black,nothing
+24,male,white,waffle fries
+46,male,india,nothing
+10,male,white,nothing
+30,female,asia,Hashbrowns
+34,female,white,waffle fries
+25,female,black,waffle fries
+50,male,asia,waffle fries
+25,female,black,waffle fries
+27,female,black,waffle fries
+21,female,black,Hashbrowns
+31,male,india,waffle fries
+28,female,black,Hashbrowns
+7,male,black,Hashbrowns
+33,female,india,waffle fries
+29,female,india,waffle fries
+21,male,black,waffle fries
+24,male,white,nothing
+32,male,black,Hashbrowns
+66,female,black,waffle fries
+30,female,india,waffle fries
+59,male,white,Hashbrowns
+28,male,white,side salad
+19,male,white,waffle fries
+33,male,asia,Hashbrowns
+20,female,black,nothing
+34,female,white,waffle fries
+18,female,white,waffle fries
+23,male,india,nothing
+34,male,white,nothing
+32,male,black,side salad
+21,male,white,nothing
+28,female,asia,side salad
+39,female,white,side salad
+25,female,white,Hashbrowns
+10,male,india,waffle fries
+28,male,white,Hashbrowns
+23,male,white,nothing
+31,male,white,waffle fries
+1,male,white,waffle fries
+28,female,white,waffle fries
+27,male,white,waffle fries
+21,male,black,superfood side
+31,female,white,nothing
+17,female,white,nothing
+13,male,black,waffle fries
+27,male,white,nothing
+41,male,white,superfood side
+51,male,asia,Fruit Cup
+24,male,india,waffle fries
+25,male,white,waffle fries
+57,female,india,waffle fries
+28,male,white,waffle fries
+20,male,white,nothing
+47,male,white,nothing
+38,female,white,waffle fries
+83,male,black,waffle fries
+19,female,india,Hashbrowns
+26,female,india,superfood side
+30,male,asia,nothing
+29,male,asia,waffle fries
+34,male,white,waffle fries
+35,male,white,waffle fries
+24,male,white,waffle fries
+29,male,white,Hashbrowns
+34,male,black,waffle fries
+43,female,white,Fruit Cup
+34,male,asia,Hashbrowns
+26,male,white,Hashbrowns
+33,male,black,superfood side
+20,female,black,Hashbrowns
+22,male,white,waffle fries
+31,male,white,Hashbrowns
+44,male,white,Hashbrowns
+24,male,white,waffle fries
+34,female,white,Hashbrowns
+32,male,white,Hashbrowns
+61,female,asia,side salad
+49,male,india,nothing
+21,female,black,Hashbrowns
+31,male,black,side salad
+34,male,black,waffle fries
+7,male,india,Fruit Cup
+22,female,white,side salad
+47,female,white,Hashbrowns
+29,male,asia,Hashbrowns
+5,female,white,nothing
+18,male,india,nothing
+28,female,white,Hashbrowns
+24,female,white,waffle fries
+16,male,white,Hashbrowns
+25,male,white,Hashbrowns
+30,female,white,waffle fries
+11,female,white,nothing
+42,female,black,Hashbrowns
+18,male,white,Hashbrowns
+35,male,white,side salad
+23,male,white,waffle fries
+61,female,white,superfood side
+41,female,black,Hashbrowns
+22,female,white,Hashbrowns
+27,female,black,nothing
+20,male,black,waffle fries
+38,male,black,nothing
+6,male,india,superfood side
+15,male,white,waffle fries
+43,female,india,Fruit Cup
+34,female,white,waffle fries
+7,male,black,waffle fries
+55,male,india,waffle fries
+27,male,black,waffle fries
+27,male,white,nothing
+33,male,white,side salad
+25,male,white,waffle fries
+15,male,asia,waffle fries
+61,female,black,side salad
+21,male,white,superfood side
+27,female,black,nothing
+21,female,black,waffle fries
+20,male,asia,waffle fries
+58,male,india,Hashbrowns
+52,male,white,Fruit Cup
+25,female,black,waffle fries
+31,male,asia,waffle fries
+22,female,asia,Hashbrowns
+25,female,black,Hashbrowns
+35,male,white,waffle fries
+41,male,asia,Hashbrowns
+30,male,white,waffle fries
+77,male,white,waffle fries
+28,male,black,nothing
+54,female,black,waffle fries
+21,male,white,nothing
+19,male,black,waffle fries
+35,female,asia,Hashbrowns
+29,male,white,nothing
+36,male,black,Hashbrowns
+14,male,black,superfood side
+19,male,black,waffle fries
+64,female,black,Hashbrowns
+34,female,white,waffle fries
+32,male,india,Fruit Cup
+28,male,white,side salad
+61,male,india,nothing
+33,male,white,Hashbrowns
+25,female,white,waffle fries
+59,female,india,waffle fries
+23,male,white,waffle fries
+25,male,white,waffle fries
+50,female,white,waffle fries
+52,male,india,waffle fries
+27,male,india,waffle fries
+33,male,india,nothing
+29,female,black,side salad
+26,male,white,waffle fries
+38,male,black,Hashbrowns
+17,male,white,side salad
+43,male,black,nothing
+23,female,black,Hashbrowns
+40,male,asia,nothing
+32,male,white,waffle fries
+59,male,white,nothing
+19,male,white,Hashbrowns
+26,male,white,waffle fries
+25,female,asia,superfood side
+24,female,india,Hashbrowns
+64,male,india,waffle fries
+77,male,white,waffle fries
+32,male,white,waffle fries
+7,male,white,side salad
+38,female,asia,waffle fries
+21,male,black,Hashbrowns
+29,male,black,waffle fries
+25,male,white,waffle fries
+21,male,white,waffle fries
+20,male,asia,waffle fries
+30,male,white,superfood side
+24,male,asia,waffle fries
+29,male,white,waffle fries
+24,female,white,Hashbrowns
+27,female,india,Fruit Cup
+20,male,india,nothing
+39,female,white,waffle fries
+35,male,india,waffle fries
+23,male,white,nothing
+31,male,white,waffle fries
+31,female,white,waffle fries
+3,male,india,Hashbrowns
+20,male,white,Hashbrowns
+20,female,asia,waffle fries
+30,male,white,nothing
+42,female,asia,Hashbrowns
+37,female,india,Hashbrowns
+44,female,white,Hashbrowns
+21,female,white,waffle fries
+22,male,white,Hashbrowns
+43,female,black,nothing
+22,male,white,side salad
+26,female,white,waffle fries
+25,female,asia,nothing
+31,male,white,Hashbrowns
+38,female,black,Hashbrowns
+18,female,asia,nothing
+30,male,white,Hashbrowns
+32,male,asia,nothing
+23,male,white,nothing
+29,female,asia,Hashbrowns
+94,male,white,Hashbrowns
+30,male,black,Hashbrowns
+28,male,india,Hashbrowns
+34,male,white,nothing
+21,male,white,waffle fries
+11,male,asia,waffle fries
+24,male,black,nothing
+33,male,india,Hashbrowns
+29,female,white,waffle fries
+17,female,black,nothing
+41,male,white,nothing
+21,female,black,Hashbrowns
+34,female,india,superfood side
+25,male,black,nothing
+39,female,white,waffle fries
+30,male,black,waffle fries
+30,male,white,Hashbrowns
+13,male,asia,waffle fries
+24,male,white,Hashbrowns
+51,female,india,nothing
+12,male,white,superfood side
+44,female,black,waffle fries
+28,female,black,waffle fries
+21,male,asia,Hashbrowns
+27,female,india,nothing
+20,male,asia,nothing
+29,female,asia,waffle fries
+80,female,asia,side salad
+33,male,black,nothing
+17,male,asia,Hashbrowns
+20,male,white,Hashbrowns
+0,male,black,Hashbrowns
+23,male,white,waffle fries
+20,female,white,waffle fries
+40,male,white,waffle fries
+29,male,white,waffle fries
+36,female,black,Hashbrowns
+26,female,india,Fruit Cup
+57,male,white,waffle fries
+37,female,india,nothing
+15,male,black,Hashbrowns
+20,female,asia,waffle fries
+22,male,black,Fruit Cup
+20,male,india,superfood side
+63,female,white,waffle fries
+33,female,white,Hashbrowns
+42,male,white,Hashbrowns
+18,female,white,Hashbrowns
+24,female,asia,waffle fries
+99,male,white,nothing
+30,female,white,nothing
+46,male,india,waffle fries
+25,female,asia,waffle fries
+33,female,white,Hashbrowns
+16,male,india,nothing
+56,female,black,superfood side
+26,male,asia,Hashbrowns
+25,male,white,waffle fries
+22,female,black,waffle fries
+34,female,black,waffle fries
+98,female,asia,nothing
+55,female,white,waffle fries
+26,female,india,Fruit Cup
+26,female,white,Fruit Cup
+62,female,white,nothing
+24,male,india,nothing
+30,male,black,waffle fries
+21,male,india,waffle fries
+26,male,asia,waffle fries
+28,female,white,Hashbrowns
+30,female,white,Hashbrowns
+38,female,black,waffle fries
+33,male,india,waffle fries
+21,female,india,nothing
+35,female,white,Hashbrowns
+22,male,white,superfood side
+30,male,india,nothing
+26,female,white,waffle fries
+13,male,black,waffle fries
+22,male,asia,waffle fries
+62,female,white,nothing
+55,female,white,waffle fries
+34,male,black,waffle fries
+24,male,black,waffle fries
+64,female,black,nothing
+23,male,india,superfood side
+32,male,india,Fruit Cup
+27,female,black,Hashbrowns
+10,female,black,waffle fries
+41,female,asia,waffle fries
+61,female,white,Hashbrowns
+25,female,black,Hashbrowns
+85,male,black,Hashbrowns
+25,male,india,waffle fries
+31,male,black,waffle fries
+39,female,asia,Hashbrowns
+33,female,india,nothing
+34,male,white,Hashbrowns
+25,female,asia,Hashbrowns
+25,female,black,Hashbrowns
+21,female,india,nothing
+28,male,white,waffle fries
+53,female,white,nothing
+31,male,white,nothing
+99,male,white,waffle fries
+15,male,white,waffle fries
+41,male,asia,waffle fries
+33,female,white,nothing
+47,male,white,nothing
+26,male,india,nothing
+25,female,asia,waffle fries
+30,male,black,superfood side
+25,male,asia,waffle fries
+23,male,white,waffle fries
+17,male,white,waffle fries
+39,male,india,side salad
+32,male,black,nothing
+31,female,asia,side salad
+38,male,white,Hashbrowns
+30,male,white,Hashbrowns
+15,female,black,nothing
+21,female,white,waffle fries
+31,male,black,waffle fries
+23,male,black,Hashbrowns
+29,male,white,waffle fries
+60,female,black,nothing
+38,female,asia,Fruit Cup
+33,female,white,Hashbrowns
+18,female,white,nothing
+20,male,india,waffle fries
+21,male,black,waffle fries
+34,male,white,side salad
+34,female,india,superfood side
